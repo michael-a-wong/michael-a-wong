@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hello there 👋
+
+My name is Michael! Welcome to my github!
+
+<!-- ### 🌱 What's new? -->
+
+
+
+### 📫 How to reach me 
+
+- [Email](mailto:mwong2960@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/mwong2960)
 
 <!--
 **michael-a-wong/michael-a-wong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
